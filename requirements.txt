@@ -1,0 +1,9 @@
+numpy>=1.26.0
+pandas==2.2.3
+scikit-learn==1.6.1
+streamlit==1.2.0
+streamlit-option-menu==0.3.2
+protobuf==3.20.3
+setuptools>=65.5.0
+altair==4.2.2
+pickle-mixin==1.0.2
